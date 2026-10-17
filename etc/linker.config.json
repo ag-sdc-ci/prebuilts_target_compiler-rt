@@ -1,0 +1,26 @@
+{
+	"provideLibs": [	
+		    "libcompiler_rt-x86_64-v2.so",
+		    "libcompiler_rt.so",
+		    "libdummy_binary_libcompiler-rt-extras.a-x86_64-v2.so",
+		    "libdummy_binary_libcompiler-rt-extras.a.so",
+		    "libdummy_binary_libcompiler-rt-x86_64-v2.so.so",
+		    "libdummy_binary_libcompiler-rt.a-x86_64-v2.so",
+		    "libdummy_binary_libcompiler-rt.a.so",
+		    "libdummy_binary_libcompiler-rt.so.so",
+		    "libdummy_ext_compiler_rt-x86_64-v2.so",
+		    "libdummy_ext_compiler_rt.so",
+		    "libdummy_headers_ext_compiler_rt-x86_64-v2.so",
+		    "libdummy_headers_ext_compiler_rt.so",
+		    "libdummy_shared_compiler-rt-x86_64-v2.so",
+		    "libdummy_shared_compiler-rt.so"
+	],
+	"requireLibs": [	
+		    "libc++_shared.so",
+		    "libc.so",
+		    "libdl.so",
+		    "liblog.so",
+		    "libm.so"
+	],
+	"visible": true
+}
